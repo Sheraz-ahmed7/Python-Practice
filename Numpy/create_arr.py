@@ -1,4 +1,4 @@
 import numpy as np
 
-arr1 = np.arange(10,18).reshape((3,2))
+arr1 = np.arange(10,18).reshape((4,2))
 print(arr1)
